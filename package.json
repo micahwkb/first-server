@@ -1,0 +1,27 @@
+{
+  "name": "first-server",
+  "version": "1.0.0",
+  "description": "simple http server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micahwkb/first-server.git"
+  },
+  "keywords": [
+    "server",
+    "nodejs",
+    "http"
+  ],
+  "author": "Micah Britton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micahwkb/first-server/issues"
+  },
+  "homepage": "https://github.com/micahwkb/first-server#readme",
+  "dependencies": {
+    "http": "0.0.0"
+  }
+}
